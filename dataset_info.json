@@ -1,0 +1,44 @@
+
+{"jessicatran95--faces":
+{
+    "description": "", 
+    "citation": "", 
+    "homepage": "", 
+    "license": "", 
+    "features": {
+        
+    "id": {
+        "dtype": "string",  
+        "_type": "Value"
+        }, 
+    "image": {
+        "_type": "Image"
+        }, 
+    "query": { 
+        "dtype": "string",
+         "_type": "Value"
+         }, 
+    "answers": {
+        "dtype": "string", 
+        "_type": "Value"
+        } 
+        
+                
+        
+    },
+        
+         "post_processed": null, 
+         "supervised_keys": null, 
+         "task_templates": null, 
+         "builder_name": null, 
+         "config_name": null, 
+         "version": null, 
+         "splits": 
+            {"train": {"name": "train", "num_bytes": 466951436.0, "num_examples": 90, "dataset_name": "faces"}, 
+            "test": {"name": "test", "num_bytes": 412839374.0, "num_examples": 10, "dataset_name": "faces"}}, 
+        
+        "download_checksums": null, 
+        "download_size": 148367985, 
+        "post_processing_size": null, 
+        "dataset_size": 879790810.0, 
+        "size_in_bytes": 1028158795.0}}
